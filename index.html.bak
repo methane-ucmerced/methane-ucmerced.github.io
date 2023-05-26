@@ -40,7 +40,7 @@
 	<div id="contents">
 		<div id="adbox">
 			<div class="clearfix">
-				<img src="images/method_diagram.png" alt="Img" height="382" width="650">
+				<img src="images/method_diagram.png" alt="Img" height="382" width="700">
 				<div class="detail">
 					<h1>Methane mitigation through <br> measurements.</h1>
 					<!-- <p> -->
@@ -70,33 +70,33 @@
 				<li>
 					<div class="frame1">
 						<div class="box">
-							<img src="images/meeting.jpg" alt="Img" height="130" width="197">
+							<img src="images/renewableimage4.png" alt="Img" height="130" width="197">
 						</div>
 					</div>
 					<p>
-						<b>Topic 1</b> See Co-PI Sarah Kurtz's work here.
+						<b>Biogas</b> See Co-PI <a href="https://faculty.ucmerced.edu/skurtz?_gl=1*14yqxxd*_ga*MTc2MTY0MzMyOC4xNjM1OTc0Mjcy*_ga_TSE2LSBDQZ*MTY4NTA2NzU3MS4xMDkuMS4xNjg1MDY3NjYwLjYwLjAuMA..">Sarah Kurtz</a>'s work investigating biogas mitigation options for methane reduction.
 					</p>
 					<a href="index.html" class="more">Read More</a>
 				</li>
 				<li>
 					<div class="frame1">
 						<div class="box">
-							<img src="images/handshake.jpg" alt="Img" height="130" width="197">
+							<img src="images/AirBurner.jpg" alt="Img" height="130" width="197">
 						</div>
 					</div>
 					<p>
-						<b>Topic 2</b> See Co-PI Gerardo Diaz work here.
+						<b>Biochar</b> See Co-PI <a href="https://faculty.ucmerced.edu/gdiaz?_gl=1*13nofg9*_ga*MTc2MTY0MzMyOC4xNjM1OTc0Mjcy*_ga_TSE2LSBDQZ*MTY4NTA2NzU3MS4xMDkuMS4xNjg1MDY3ODU4LjMyLjAuMA..">Gerardo Diaz</a>'s work developing biochar production and how it is used in dairy farms.
 					</p>
 					<a href="index.html" class="more">Read More</a>
 				</li>
 				<li>
 					<div class="frame1">
 						<div class="box">
-							<img src="images/smile.jpg" alt="Img" height="130" width="197">
+							<img src="images/zhangwork.png" alt="Img" height="130" width="197">
 						</div>
 					</div>
 					<p>
-						<b>Topic 3</b> See Co-PI Xuan Zhang's work here.
+						<b>Methane Sensing</b> See Co-PI <a href="https://sites.ucmerced.edu/xzhang-lab?_gl=1*hvahnc*_ga*MTc2MTY0MzMyOC4xNjM1OTc0Mjcy*_ga_TSE2LSBDQZ*MTY4NTA2NzU3MS4xMDkuMS4xNjg1MDY4MDAyLjMzLjAuMA..">Xuan Zhang</a>'s work on methane sensing ground-truthing and control tests.
 					</p>
 					<a href="index.html" class="more">Read More</a>
 				</li>
@@ -107,7 +107,7 @@
 						</div>
 					</div>
 					<p>
-						<b>Topic 4</b> See PI YangQuan Chen's work here.
+						<b>Methane Quantification</b> See PI <a href="https://mechatronics.ucmerced.edu">YangQuan Chen</a>'s work developing methane quantification strategies utilizing machine learing based big data and Digital Twins.
 					</p>
 					<a href="index.html" class="more">Read More</a>
 				</li>
