@@ -3,7 +3,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>Research - CMERI</title>
+	<title>Contact - CMERI</title>
 	<link rel="stylesheet" href="css/style.css" type="text/css">
 </head>
 <body>
@@ -22,8 +22,8 @@
 				<li>
 					<a href="practices.html">Best Practices</a>
 				</li>
-				<li class="active">
-					<a href="lawyers.html">Research</a>
+				<li>
+					<a href="lawyers.html">Our Lawyers</a>
 				</li>
 				<li>
 					<a href="news.html">News</a>
@@ -31,7 +31,7 @@
 						<a href="singlepost.html">News Single Post</a>
 					</div>
 				</li>
-				<li>
+				<li class="active">
 					<a href="contact.html">Contact</a>
 				</li>
 			</ul>
@@ -41,85 +41,48 @@
 		<div class="clearfix">
 			<div class="sidebar">
 				<div>
-					<h2>Our Lawyers</h2>
-					<p>
-						Testing
-					</p>
-				</div>
-				<div>
-					<h2>Client Testimonials</h2>
-					<p>
-						&ldquo;Testing&ldquo; <span>- firstname lastname</span>
-					</p>
+					<h2>Contact Info</h2>
+					<ul class="contact">
+						<li>
+							<p>
+								<span class="home"></span> <em>CMERI<br> University of California, Merced</em> 5200 N. Lake Rd, Merced, CA 95343
+							</p>
+						</li>
+						<li>
+							<p class="phone">
+								Phone: (+1) 209 898 5633
+							</p>
+						</li>
+						<li>
+							<p class="fax">
+								Fax: N/A
+							</p>
+						</li>
+						<li>
+							<p class="mail">
+								Email: dhollenbeck@ucmerced.edu
+							</p>
+						</li>
+					</ul>
 				</div>
 			</div>
 			<div class="main">
-				<h1>Our Research</h1>
-				<div class="section">
-					<h2>Featured</h2>
-					<ul>
-						<li>
-							<div class="frame4">
-								<div class="box">
-									<img src="images/virus.jpg" alt="Img" height="94" width="90">
-								</div>
-							</div>
-							<p>
-								<b>Article citation</b> details.
-							</p>
-						</li>
-						<li>
-							<div class="frame4">
-								<div class="box">
-									<img src="images/virus.jpg" alt="Img" height="94" width="90">
-								</div>
-							</div>
-							<p>
-								<b>Article citation</b> details.
-							</p>
-						</li>
-					</ul>
-				</div>
-				<div class="section">
-					<h2>Journal Papers</h2>
-					<ul>
-						<li>
-							<!-- <div class="frame4"> -->
-								<!-- <div class="box"> -->
-									<!-- <img src="images/thumbnail-smile.jpg" alt="Img" height="94" width="90"> -->
-								<!-- </div> -->
-							<!-- </div> -->
-							<p>
-								<b>Article citation</b> details.
-							</p>
-						</li>
-					</ul>
-				</div>
-				<div class="section last-child">
-					<h2>Conference Proceedings</h2>
-					<ul>
-						<li>
-							<!-- <div class="frame4"> -->
-								<!-- <div class="box"> -->
-									<!-- <img src="images/thumbnail-frontview.jpg" alt="Img" height="94" width="90"> -->
-								<!-- </div> -->
-							<!-- </div> -->
-							<p>
-								<b>Article citation</b> details.
-							</p>
-						</li>
-						<li>
-							<!-- <div class="frame4"> -->
-								<!-- <div class="box"> -->
-									<!-- <img src="images/thumbnail-happy.jpg" alt="Img" height="94" width="90"> -->
-								<!-- </div> -->
-							<!-- </div> -->
-							<p>
-								<b>Article citation</b> details.
-							</p>
-						</li>
-					</ul>
-				</div>
+				<h1>Contact</h1>
+				<h2>Send Us a Quick Message</h2>
+				<!-- <p> -->
+					<!-- ... -->
+				<!-- </p> -->
+				<form action="index.html" method="post" class="message">
+					<label>First Name</label>
+					<input type="text" value="">
+					<label>Last Name</label>
+					<input type="text" value="">
+					<label>Email Address</label>
+					<input type="text" value="">
+					<label>Message</label>
+					<textarea></textarea>
+					<input type="submit" value="Send Message">
+				</form>
 			</div>
 		</div>
 	</div>
