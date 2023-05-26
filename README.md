@@ -1,1 +1,0 @@
-# methane-ucmerced.github.io
